@@ -10,4 +10,12 @@
 
   
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heitorc1)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorc1&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api?username=heitorc1&theme=tokyonight" /></td>
+    </tr>   
+  </table>
+</center>
+
